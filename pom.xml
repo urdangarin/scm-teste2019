@@ -5,6 +5,10 @@
 		http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>clinic.programmming</groupId>
-  <artifactId>example</artifactId>
+  <artifactId>maven-quick-start</artifactId>
   <version>1.0</version>
+  <properties>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
+  </properties>
 </project>

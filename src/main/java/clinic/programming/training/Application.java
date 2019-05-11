@@ -3,7 +3,7 @@ package clinic.programming.training;
 public class Application {
 
     public Application() {
-        System.out.println ("Estou dentro da Applicação!");
+        System.out.println ("Estou modificando a Applicação!");
     }
 
     // method main(): ALWAYS the APPLICATION entry point
